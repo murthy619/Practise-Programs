@@ -1,6 +1,5 @@
 package com.practise;
 
-import java.util.StringTokenizer;
 
 public class swathi {
 
